@@ -1,0 +1,90 @@
+/* Main Story Background and Font */
+#story {
+    background-color: #1c1c1c;
+    color: #f5f5f5;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Passage Styling */
+#passage {
+    padding: 20px;
+    background-color: #2f2f2f;
+    border: 2px solid #444;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    white-space: pre-wrap;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Typewriter Blinking Cursor */
+#passage::after {
+    content: '|';
+    color: #1e90ff;
+    position: absolute;
+    right: 10px;
+    animation: blink 1s steps(1) infinite;
+}
+
+@keyframes blink {
+    0%, 50% {
+        opacity: 1;
+    }
+    50%, 100% {
+        opacity: 0;
+    }
+}
+
+/* Link Styling with Glitch Effect */
+#passage a {
+    color: #1e90ff;
+    text-shadow: 0 0 5px #1e90ff, 0 0 10px #87cefa;
+    transition: all 0.3s ease;
+}
+
+#passage a:hover {
+    color: #87cefa;
+    text-shadow: 0 0 8px #87cefa, 0 0 15px #1e90ff;
+    filter: hue-rotate(180deg) contrast(1.5);
+    transform: skewX(5deg);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #2f2f2f;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #1e90ff;
+    border-radius: 10px;
+    border: 2px solid #444;
+}
+
+body.menu #ui-bar {
+    display: none;
+}
+
+/* Gear UI */
+#gear-sidebar {
+    padding: 10px;
+}
+
+.gear-box {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.gear-box span {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.gear-box img {
+    width: 50px;
+    height: 50px;
+}
