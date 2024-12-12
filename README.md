@@ -1,8 +1,16 @@
 						Ground Zero: A Post-Apocalyptic Adventure
 
 The Collapse:
-20 years ago, a once beloved city crumbled after a mysterious virus swept through its population, sparking mass panic. This was followed by an international trade war that severed critical supply lines and deepened the crisis. The Government, facing internal chaos, used the tragedy to consolidate power, taking control over what remained of the nation. However, they deemed the infected areas, particularly the origin of the virus, Ground Zero, as unrecoverable.
-Ground Zero is now a place where no government holds authority, a desolate exclusion zone. It has become a wasteland overrun by mutants, scavengers, and remnants of a failed society. The Government and factions have accepted it as lost, sealing it off from the rest of the world. The exclusion zone is untouched by law, teeming with unknown dangers, and rumored to hold secrets that both the Government and survivors fear.
+
+20 years ago, a once beloved city crumbled after a mysterious virus swept through its population, sparking mass panic. 
+This was followed by an international trade war that severed critical supply lines and deepened the crisis. The Government, 
+facing internal chaos, used the tragedy to consolidate power, taking control over what remained of the nation. However,
+they deemed the infected areas, particularly the origin of the virus, Ground Zero, as unrecoverable.
+
+Ground Zero is now a place where no government holds authority, a desolate exclusion zone. It has become a wasteland overrun 
+by mutants, scavengers, and remnants of a failed society. The Government and factions have accepted it as lost, sealing it 
+off from the rest of the world. The exclusion zone is untouched by law, teeming with unknown dangers, and rumored to hold secrets 
+that both the Government and survivors fear.
 
 
 Overview
