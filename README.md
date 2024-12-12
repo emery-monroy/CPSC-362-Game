@@ -8,7 +8,7 @@ the wasteland. Inspired by classic text games like Oregon Trail, this game combi
 Features
 
 Dynamic Story Paths: Explore abandoned buildings, discover survivors, or brave the city outskirts. Each decision shapes your story.
-RPG Mechanics: Manage player stats, including Health, Strength, Charisma, and Intelligence, to survive.
+RPG Mechanics: Manage player stats, including Health, Equipment, and Difficult Choices.
 Gear System: Equip and upgrade items like helmets, vests, boots, and backpacks to increase your odds of survival.
 Turn-Based Combat: Engage in strategic battles with mutants, scavengers, and other threats using actions like Attack, Defend, Heal, or Flee.
 Engaging Puzzles: Solve unique challenges such as bomb defusal, cryptograms, and maze navigation to progress further.
@@ -28,13 +28,8 @@ Combat System: Use Attack, Defend, Heal, or Flee to survive encounters.
 Puzzles: Enter answers or solve interactive mini-games to progress.
 
 Dependencies
-If applicable:
-
-Python (for script-based versions)
-Twine (if using a browser-friendly game engine)
+Twine (if using a browser-friendly game engine), SugarCube v2.37.3
 HTML, CSS, JavaScript (if web-based)
-Contribution
-Contributions are welcome! If you'd like to improve the game or add new features:
 
 About the Project Team
 Ground Zero was created by Team 2:
