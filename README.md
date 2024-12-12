@@ -1,4 +1,10 @@
 						Ground Zero: A Post-Apocalyptic Adventure
+
+The Collapse:
+20 years ago, a once beloved city crumbled after a mysterious virus swept through its population, sparking mass panic. This was followed by an international trade war that severed critical supply lines and deepened the crisis. The Government, facing internal chaos, used the tragedy to consolidate power, taking control over what remained of the nation. However, they deemed the infected areas, particularly the origin of the virus, Ground Zero, as unrecoverable.
+Ground Zero is now a place where no government holds authority, a desolate exclusion zone. It has become a wasteland overrun by mutants, scavengers, and remnants of a failed society. The Government and factions have accepted it as lost, sealing it off from the rest of the world. The exclusion zone is untouched by law, teeming with unknown dangers, and rumored to hold secrets that both the Government and survivors fear.
+
+
 Overview
 
 Ground Zero is a text-based "Choose Your Own Adventure" game set in a post-apocalyptic world. As a survivor navigating the dangerous 
@@ -7,6 +13,7 @@ the wasteland. Inspired by classic text games like Oregon Trail, this game combi
 
 Features
 
+Retro Style: UI Provides a Throwback to Early Computers.
 Dynamic Story Paths: Explore abandoned buildings, discover survivors, or brave the city outskirts. Each decision shapes your story.
 RPG Mechanics: Manage player stats, including Health, Equipment, and Difficult Choices.
 Gear System: Equip and upgrade items like helmets, vests, boots, and backpacks to increase your odds of survival.
@@ -28,8 +35,9 @@ Combat System: Use Attack, Defend, Heal, or Flee to survive encounters.
 Puzzles: Enter answers or solve interactive mini-games to progress.
 
 Dependencies
-Twine (if using a browser-friendly game engine), SugarCube v2.37.3
-HTML, CSS, JavaScript (if web-based)
+Twine Game Engine, SugarCube v2.37.3, Any Modern Web Browser
+
+Developed in HTML, CSS, and JavaScript
 
 About the Project Team
 Ground Zero was created by Team 2:
